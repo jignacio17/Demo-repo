@@ -10,3 +10,9 @@ git remote -v -> para verificar si esta conectada con la cuenta
 git push -u origin master -> para el primer push de git de tu maquina local a un repo GitHub
 git puch -> para las proximas actualizaciones
 ```
+```
+//comando git //  cambiar de rama // crear la rama // nombre de la nueva rama
+git checkout -b name-of-new-rama
+```
+> git reset --hard origin/master // para obtener los cambio de la rama master y eliminar las cambios de local
+> git branch  -> rama de trabajo
